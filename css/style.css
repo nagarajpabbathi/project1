@@ -59,11 +59,12 @@ display: block;
 .circle1{
   float: left;
   padding-right: 20px;
-  padding-top: 10px;
+  padding-bottom: 50px;
 }
 .circle2{
   float:right;
   padding-left: 20px;
+  padding-bottom:50px;
 }
 .skill{
   width:45%;
