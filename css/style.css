@@ -89,7 +89,7 @@ a{
 
 button{
   background-color:#142850;
-  width: 10%;
+  width: 100px;
   color: #DAE1E7;
   height: 30px;
   margin: 0 auto 0 auto;
@@ -115,6 +115,11 @@ hr{
   height: 0;
   color :grey;
   opacity: 50%;
+  margin: 50px auto 50px auto;
+
+}
+.end{
+  width: 45%;
   margin: 50px auto 50px auto;
 
 }
