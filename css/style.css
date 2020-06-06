@@ -1,0 +1,120 @@
+body{
+  text-align: center;
+  background-color: white;
+  color:#00909e;
+  padding: 0px;
+  margin:0px;
+}
+h1{
+font-family: 'Dancing Script', cursive;
+margin-top: 0px;
+padding-top: 30px;
+}
+
+
+#cloud1 {
+width:10%;
+position: absolute;
+left: 10%;
+top :40% ;
+}
+
+#cloud {
+width:10%;
+position: absolute;
+left: 85%;
+top:20px;
+}
+
+#mountain {
+width:400px;
+width:28%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 90px;
+
+
+display: block;
+}
+.first{
+  width: 100%;
+  background-color:   #dae1e7;
+  height: 100%;
+  margin: 0;
+
+}
+.profile{
+  margin-top: 10px;
+  width: 45%;
+  margin:0 auto 0 auto;
+}
+.circle{
+  margin-top: 40px;
+  width:24%;
+  padding:20px;
+}
+.circle1,.circle2{
+  width:20%;
+}
+.circle1{
+  float: left;
+  padding-right: 20px;
+  padding-top: 10px;
+}
+.circle2{
+  float:right;
+  padding-left: 20px;
+}
+.skill{
+  width:45%;
+  margin:0 auto 0 auto;
+  padding: 20px;
+  text-align: left;
+}
+
+.skill2{
+  text-align: left;
+  width:45%;
+  margin:0 auto 0 auto;
+  padding: 20px;
+}
+p{
+  color: black;
+}
+a{
+  display: inline-block;
+  padding: 10px;
+  color:#142850;
+}
+
+button{
+  background-color:#142850;
+  width: 10%;
+  color: #DAE1E7;
+  height: 30px;
+  margin: 0 auto 0 auto;
+}
+button:hover{
+  color: #142850;
+  background-color: #DAE1E7;
+}
+#copyright{
+  font-size: 0.7rem;
+  color: white;
+
+}
+footer{
+  background-color: #00909e;
+  color:#142850;
+  padding: 10px;
+  margin-top: 20px;
+}
+hr{
+  width:60px;
+  border-top: 5px dotted;
+  height: 0;
+  color :grey;
+  opacity: 50%;
+  margin: 50px auto 50px auto;
+
+}
